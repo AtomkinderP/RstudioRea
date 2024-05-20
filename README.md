@@ -1,2 +1,1 @@
-# RstudioRea
-## Created by Sotiris
+# Example of README.md
